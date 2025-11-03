@@ -1,4 +1,4 @@
 # devops-lab-2
 Lab 5: Flujo de trabajo de CI avanzado – Disparadores, matrices e informes
 
-![CI Matrix](https://github.com/<YOUR_USERNAME>/<YOUR_REPO>/actions/workflows/ci.yaml/badge.svg)
+![CI Matrix](https://github.com/andalfaya/devops-lab-2/actions/workflows/ci.yaml/badge.svg)
